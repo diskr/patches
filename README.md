@@ -1,4 +1,4 @@
-# KernelSU-Next (Legacy) Integration Guide
+# KernelSU (Backslashxx) Integration Guide
 
 ## 1. Clone the required patches
 
